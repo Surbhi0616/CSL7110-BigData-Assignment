@@ -1,0 +1,20 @@
+# Byte-compiled Python
+__pycache__/
+*.py[cod]
+
+# Environments
+.env
+venv/
+miniconda3/
+
+# Spark/Hadoop temp
+spark-*.tgz
+/opt/spark/
+hadoop_data/
+
+# Logs
+*.log
+*.out
+
+# OS
+.DS_Store
