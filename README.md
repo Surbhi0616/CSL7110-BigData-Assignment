@@ -1,6 +1,6 @@
-# 🎓 CSL7110 Big Data Frameworks Assignment
+#  CSL7110 Big Data Frameworks Assignment
 
-## 🐘 Hadoop MapReduce (Q1-Q9)
+## Hadoop MapReduce (Q1-Q9)
 
 **Custom WordCount Implementation:**
 -  Map: `(LongWritable, Text)` → `(Text, IntWritable)`
