@@ -10,6 +10,7 @@
 -  HDFS operations + replication analysis
 
 **Structure:**
+
 hadoop/
 ├── src/WordCount.java # Complete MapReduce code
 ├── WordCount.jar # Compiled executable
@@ -36,6 +37,7 @@ Q11: TF-IDF vectors + Cosine similarity (word counts + IDF scores)
 Q12: Author influence network (temporal edge analysis)
 
 Structure:
+
 spark/
 ├── 200.txt        # Gutenberg Project book
 └── spark_200.txt  # Processed copy from HDFS
